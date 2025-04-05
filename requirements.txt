@@ -1,0 +1,10 @@
+streamlit==1.22.0
+pymongo==4.3.3
+scikit-learn==1.0.2
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.2
+altair==4.2.2
+certifi==2022.12.7
+python-dotenv==0.21.1
+protobuf==3.20.3
